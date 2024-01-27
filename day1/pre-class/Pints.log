@@ -1,0 +1,4 @@
+var myBeer = 500
+undefined
+var myBeerInPints = myBeer*0.0021138
+undefined

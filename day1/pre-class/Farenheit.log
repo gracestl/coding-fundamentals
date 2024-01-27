@@ -1,0 +1,6 @@
+var degree = 35
+undefined
+var farenheit = degree * 9/5 +32
+undefined
+farenheit
+95

@@ -1,0 +1,6 @@
+var rise = 45
+undefined
+var run = 36
+undefined
+rise/run * 100
+125

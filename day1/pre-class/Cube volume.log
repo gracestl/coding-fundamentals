@@ -1,0 +1,6 @@
+var side = 5
+undefined
+var vol = side * side * side
+undefined
+vol
+125
